@@ -11,7 +11,7 @@ Mongo
 
 ## Getting Started 
 
-`
+```
 npm install //install dependencies
 npm run dev
-`
+```
